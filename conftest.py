@@ -2,7 +2,6 @@ import pytest
 from appium import webdriver
 from appium.options.android import UiAutomator2Options
 
-
 capabilities = dict(
     platformName='Android',
     automationName='uiautomator2',
@@ -10,7 +9,6 @@ capabilities = dict(
     autoGrantPermissions='true',
     appPackage='com.amazon.mShop.android.shopping',
     appActivity='com.amazon.mShop.home.HomeActivity',
-    noReset='true',
     language='en',
     locale='US'
 )
