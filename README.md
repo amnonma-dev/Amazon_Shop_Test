@@ -1,6 +1,6 @@
 # Amazon Shop Test Project
 
-## Porpose
+## Purpose
 Test various major functionalities of the Amazon shopping application.
 
 ## Description
@@ -11,7 +11,7 @@ This project tests automation of the Amazon app, using the **Appium** mobile tes
 
 * The following functions have been **Implemented**:
 1. Login - 1 positive and 1 negative scenarios
-2. Navigation - two kinds of navigatings to page and going back
+2. Navigation - two kinds of navigating to page, and going back
 3. Cart actions - Add item to cart test, and empty cart from items test
 
 * The following functions are **TBD**:
