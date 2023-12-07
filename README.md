@@ -27,6 +27,10 @@ This project tests automation of the Amazon app, using the **Appium** mobile tes
 
 3. Account orders - the ability of users to view their order history and re-purchase orders
 
+## Requirements
+The testing framework requires that the following will be up and running before tests begin:
+1. Appium server on localhost, port 4723
+2. Android SDK Emulator, with Amazon shop app installed
    
 
 ## Usage
